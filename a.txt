@@ -1,2 +1,3 @@
 this is one line in a
 new feature-1 add by user-1
+add feature-2 by user-2
